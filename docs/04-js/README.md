@@ -69,6 +69,7 @@ function dragElement(terrariumElement) {
 }
 ```
 
+
 In this lesson, we introduced functions, which allow us to group a set of instructions into a single unit that can be executed whenever we need it. We created a function called `dragElement` that will eventually handle the dragging of our terrarium elements.
 
 Understanding functions is crucial because they help us organize our code and make it more reusable. In the next lesson, we’ll learn about manipulating the DOM using JavaScript. See you soon!
