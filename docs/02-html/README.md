@@ -1,5 +1,6 @@
 # Introduction to HTML
 
+
 !!! note "Task: Preview The Terrarium"
 
     Let's preview the finished Terrarium app to see what we are trying to build today.
