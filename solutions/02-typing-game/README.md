@@ -3,7 +3,8 @@
 > Use Copilot Chat with this prompt to get an explainer about the code as a step 1. We can then use a different prompt in a future step 2, to write a transcript to explain this code.
 
 <br/>
-<br/>
+
+
 
 ## 1: Explain HTML code
 
