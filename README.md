@@ -22,3 +22,4 @@ Technologist, Teacher, Author, Developer Relations at Microsoft
 [lil-course-url]: https://www.linkedin.com/learning/html-css-and-javascript-building-the-web
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGOekVdxzy4-g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1726083011071?e=2147483647&v=beta&t=Snrq_ON58iaRiLWDmpbP7o-3QsmirVWGbMQU--NmG9Q
 
+Best Regards
